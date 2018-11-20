@@ -1,7 +1,7 @@
 @font-face {
     font-family: "UntitledSansWeb-Light";
-    src: url("./font/UntitledSansWeb-Light.woff2") format("woff2"),
-       url("./font/UntitledSansWeb-Light.woff") format("woff"); }
+    src: url("font/UntitledSansWeb-Light.woff2") format("woff2"),
+       url("font/UntitledSansWeb-Light.woff") format("woff"); }
 
 @font-face {
     font-family: "UntitledSansWeb-LightItalic";
@@ -10,8 +10,8 @@
 
 @font-face {
     font-family: "UntitledSansWeb-Regular";
-    src: url("./font/UntitledSansWeb-Regular.woff2") format("woff2"),
-       url("./font/UntitledSansWeb-Regular.woff") format("woff"); }
+    src: url("font/UntitledSansWeb-Regular.woff2") format("woff2"),
+       url("font/UntitledSansWeb-Regular.woff") format("woff"); }
 
 @font-face {
     font-family: "UntitledSansWeb-RegularItalic";
